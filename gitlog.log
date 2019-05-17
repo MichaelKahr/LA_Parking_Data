@@ -1,0 +1,89 @@
+commit 686297993ee796e2f2e70c18a5bec01316d39b8f
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Fri May 17 10:23:24 2019 +0200
+
+    added shortened csv file with 150000 rows
+
+commit d17114f4eab1022c6c5ee6f51b75f7d735f5cd64
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Fri May 17 10:21:51 2019 +0200
+
+    changed storycards
+
+commit 9c331517924cde46f5ab54e508002604b11d11b4
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Fri May 17 10:20:11 2019 +0200
+
+    added handbook
+
+commit 07d7d1fc09efe8de5c1fe5e2b7b5003f79c35fc0
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Fri May 17 10:18:52 2019 +0200
+
+    small changes
+
+commit 7134264f01510f9ab066d8df3bb786202d7a694e
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Fri May 17 10:05:00 2019 +0200
+
+    added documentation
+
+commit c7357837f90348919454c83e31e724bedf4c7139
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Wed May 15 18:13:13 2019 +0200
+
+    fixed bug
+
+commit 436f39296533d44d0e65ed1a1392ad01f5676715
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Wed May 15 18:00:40 2019 +0200
+
+    Added tutorial
+
+commit 3138d30e54510e3daa3e2a45d0176da29d8d1139
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Wed May 15 13:04:25 2019 +0200
+
+    added comments and removed print statements
+
+commit 78e6fa4e8fb885ff8502a27ac7ee6293c20dc2e7
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Wed May 15 11:33:11 2019 +0200
+
+    implemented map
+
+commit af7b54d0c5ab7326b7a8f47445857097d4c0259f
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Tue May 14 08:15:09 2019 +0200
+
+    created one new plot
+
+commit a5117615cacb9e6b33eb211df22994a525612b99
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Fri May 3 12:06:31 2019 +0200
+
+    updated radme
+
+commit b5dc823b8ee3236c93c51832d3c4a5f30a5f70c3
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Fri May 3 12:03:54 2019 +0200
+
+    created travis file'
+
+commit 80c0fe8ad99b05bdde809a441eca32b839857224
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Fri May 3 12:01:04 2019 +0200
+
+    first commit
+
+commit be63d7e23986bf9446ba7673b8cfd0cc51d8c53f
+Author: Michael Kahr <mikey.kahr@gmail.com>
+Date:   Fri May 3 12:00:29 2019 +0200
+
+    added gitignore
+
+commit 88f273762500ece4c8740aed7475ad92d4972a73
+Author: Michael Kahr <40028606+MichaelKahr@users.noreply.github.com>
+Date:   Fri May 3 11:57:59 2019 +0200
+
+    Initial commit
